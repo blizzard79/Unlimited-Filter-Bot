@@ -1,14 +1,14 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://res.cloudinary.com/the-devs/image/upload/utube_dleder_bot",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://t.me/sailay7",
     "repository": "https://github.com/blizzard79/Unlimited-Filter-Bot",
     "success_url": "https://t.me/sailay7",
     "env": {
